@@ -2,5 +2,5 @@
   "name": "Hue Service Advanced",
   "country": "FR",
   "domains": ["sensor"],
-  "homeassistant": "0.109"
+  "homeassistant": "0.108"
 }
