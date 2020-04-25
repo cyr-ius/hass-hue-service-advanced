@@ -1,0 +1,10 @@
+{
+  "domain": "hue_service",
+  "name": "Hue Service Advanced",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/hue",
+  "ssdp": [],
+  "homekit": {},
+  "dependencies": ["hue"],
+  "codeowners": ["@cyr-ius"]
+}
