@@ -1,5 +1,5 @@
 {
-  "domain": "hue_service",
+  "domain": "hueserviceadvanced",
   "name": "Hue Service Advanced",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/hue",
