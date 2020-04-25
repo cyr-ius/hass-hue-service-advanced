@@ -1,0 +1,6 @@
+{
+  "name": "Hue Service advanced",
+  "country": "FR",
+  "domains": ["sensor"],
+  "homeassistant": "0.109"
+}
