@@ -11,10 +11,9 @@ from homeassistant.helpers import config_validation as cv
 from homeassistant.components.hue import DOMAIN as HUE_DOMAIN
 from homeassistant.config_entries import SOURCE_IMPORT
 
-DOMAIN = "hue_service"
+DOMAIN = "hueserviceadvanced"
 SERVICE_HUE_CONFIG = "set_motion_sensor"
 CURRENT_SENSORS = "{}_current_sensors"
-DEFAULT_SCAN_INTERVAL = timedelta(seconds=5)
 SCAN_INTERVAL = timedelta(seconds=0.6)
 
 ATTR_ON = "on"
