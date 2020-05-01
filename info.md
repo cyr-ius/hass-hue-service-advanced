@@ -1,11 +1,12 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
 # Hue-Service-Advanced
-[FOR COMMUNITY SUPPORT PLEASE USE THIS THREAD](https://community.home-assistant.io/t/hue-motion-sensors-remotes-custom-component)
 
 Place the custom_components folder in your configuration directory (or add its contents to an existing custom_components folder). You need to set up [Hue bridge](https://www.home-assistant.io/components/hue/) first.
 
-Modify the hue integration behavior for sensors and remotes.\n\n* Set a custom refresh rate and monitor the current polling rate for each Hue bridge.
+Modify the hue integration behavior for sensors and remotes.
+* Set Hue motion attributes
+* Set a custom refresh rate and monitor the current polling rate for each Hue bridge.
 
 Add service to set motions sensors
 ```
@@ -41,7 +42,7 @@ set_motion_sensor:
       example: true
 ```
 
-As per [this issue](https://github.com/robmarkcole/Hue-sensors-HASS/issues/48) it is recommended to use the default naming options in the Hue app in order to ensure sensible sensor names in HA.
+As per [this issue](https://github.com/Cyr-ius/hass-hue-service-advanced/issues/48) it is recommended to use the default naming options in the Hue app in order to ensure sensible sensor names in HA.
 
 
 ## Track Updates
