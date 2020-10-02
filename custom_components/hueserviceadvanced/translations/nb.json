@@ -1,0 +1,29 @@
+
+{
+  "config": {
+      "abort": {
+          "already_configured": "Integrasjon er allerede konfigurert"
+      },
+      "step": {
+          "user": {
+              "data": {
+                  "scan_interval": "Innledende oppdateringsintervall"
+              },
+              "description": "Endre nyanseintegrasjonsatferden for sensorer og fjernkontroller.\n\n* Angi en tilpasset oppdateringsfrekvens og overvåke den nåværende avstemningshastigheten for hver Hue-bro.",
+              "title": "Hue Service Advanced"
+          }
+      },
+      "title": "Hue Service Advanced"
+  },
+  "options": {
+        "step": {
+            "user": {
+                "title": "Oppdateringsintervall",
+                "description": "Endre nyanseintegrasjonsatferden for sensorer og fjernkontroller.\n\n* Angi en tilpasset oppdateringsfrekvens og overvåke den nåværende avstemningshastigheten for hver Hue-bro.",
+                "data": {
+                    "scan_interval": "Innledende oppdateringsintervall"
+                }
+            }
+        }
+    }
+}
