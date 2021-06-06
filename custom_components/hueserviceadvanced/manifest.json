@@ -2,6 +2,7 @@
   "domain": "hueserviceadvanced",
   "name": "Hue Service Advanced",
   "config_flow": true,
+  "version": "1.3.5",
   "documentation": "https://www.home-assistant.io/integrations/hue",
   "ssdp": [],
   "homekit": {},
