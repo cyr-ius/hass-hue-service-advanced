@@ -1,4 +1,4 @@
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
 # Hue Service Advanced
@@ -45,7 +45,7 @@ Set config for binary sensor or sensor.
 
 
 ## Track Updates
-This custom component can be tracked with the help of [HACS](https://github.com/custom-components/hacs).
+This custom component can be tracked with the help of [HACS](https://hacs.xyz/).
 
 ## Debugging
 
